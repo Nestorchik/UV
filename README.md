@@ -1,2 +1,2 @@
 # UV
-UV for Python
+Менеджер "UV" для "Python"
